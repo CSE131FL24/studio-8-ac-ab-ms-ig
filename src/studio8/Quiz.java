@@ -26,7 +26,7 @@ public class Quiz {
 	}
 	
 	public void takeQuiz() {
-		//FIXME
+	super.displayPrompt();
 	}
 	
 	public static void main(String[] args) {
